@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/office/AudioPlayer_UsingServices/app/src/main/res/drawable/audiotrack.xml" value="0.18385416666666668" />
+        <entry key="..\:/office/AudioPlayer_UsingServices/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/office/AudioPlayer_UsingServices/app/src/main/res/layout/notification.xml" value="0.22" />
+        <entry key="..\:/office/AudioPlayer_UsingServices/app/src/main/res/layout/rv_items.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
